@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dharma4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/Dharma4641/LeetCode/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dharma4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dharma4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
