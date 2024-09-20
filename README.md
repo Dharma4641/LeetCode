@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Dharma4641/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Dharma4641/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Dharma4641/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Dharma4641/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Hash Table
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -35,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
