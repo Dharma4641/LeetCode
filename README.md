@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Dharma4641/LeetCode/tree/master/0264-ugly-number-ii) |
+## String
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
