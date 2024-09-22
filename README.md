@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharma4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Dharma4641/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
