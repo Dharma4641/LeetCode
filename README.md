@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dharma4641/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Dharma4641/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Dharma4641/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharma4641/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Dharma4641/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/Dharma4641/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dharma4641/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Dharma4641/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dharma4641/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
